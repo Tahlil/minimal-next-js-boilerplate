@@ -30,6 +30,7 @@
     "tsc": "tsc --pretty --noEmit"
   },
   "dependencies": {
+    "@radix-ui/react-switch": "^1.1.0",
     "@t3-oss/env-nextjs": "^0.7.1",
     "clsx": "^2.0.0",
     "next": "^14.0.1",

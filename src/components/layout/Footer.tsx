@@ -34,15 +34,6 @@ export const Footer = () => {
           <li>
             <a href="#">About</a>
           </li>
-          <li>
-            <a href="#">Dashboard</a>
-          </li>
-          <li>
-            <a href="#">Team</a>
-          </li>
-          <li>
-            <a href="#">Contact</a>
-          </li>
         </ul>
         <p>&copy; {new Date().getFullYear()} ABC | All Rights Reserved</p>
       </footer>

@@ -44,7 +44,7 @@ const Menu = ({ isOpen, setIsOpen }: { isOpen: boolean; setIsOpen: (isOpen: bool
   return (
     <div
       className={cn(
-        'fixed bottom-0 left-0 right-0 top-0 z-[100] flex h-screen w-screen flex-col items-center justify-center bg-black transition-all duration-500',
+        'fixed bottom-0 left-0 right-0 top-0 z-[1001] flex h-screen w-screen flex-col items-center justify-center bg-black transition-all duration-500',
         !isOpen && '-top-[100lvh] ease-out'
       )}
     >
